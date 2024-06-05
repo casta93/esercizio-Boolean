@@ -1,0 +1,82 @@
+body {
+    background-image: url(background.jpg);
+}
+
+.background-shape {
+    height: 2300px;
+    width: 3000px;
+    background-color:black;
+    opacity: 0.5;
+    border-radius: 2%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.container {
+    width: 3000px;
+    margin: auto;
+    padding: 80px;
+}
+
+header, nav {
+    text-align: center;
+}
+
+h1 {
+    font-size: 90px;
+    color: rgb(11, 187, 11);
+}
+
+nav {
+    height: 120px;
+    width: 2500px;
+    background-color: rgb(11, 187, 11);
+    margin: auto;
+}
+
+button {
+    font-size: 40px;
+    margin-top: 32px;
+}
+
+main {
+    width: 2500px;
+    margin: auto;
+    color: white;
+}
+
+input {
+    height: 40px;
+    width: 40px;
+}
+
+h2 {
+    font-size: 80px;
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.special {
+    font-size: 60px;
+}
+
+#bar-image-1 {
+    height: 75px;
+    width: 900px;
+    background-color: orange;
+    border-radius: 15px;
+}
+
+#bar-image-2 {
+    height: 75px;
+    width: 1500px;
+    background-color: green;
+    border-radius: 15px;
+}
+
+#bar-image-3 {
+    height: 75px;
+    width: 500px;
+    background-color: red;
+    border-radius: 15px;
+}
